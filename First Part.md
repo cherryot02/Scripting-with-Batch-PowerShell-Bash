@@ -3,7 +3,12 @@ Welcome to my very basic-looking script lab work. <br>
 Before I get into it, I will do some introduction and list the things I used. <br><br>
 
 This lab was done in virtual machines running in the Virginia Cyber Range so I could only really use the OS the was being used in class, <br> 
-but you can very much run these in any recent systems, just be careful though because you have to know how what each line does, <br>
+but you can very much run these in any recent systems.
+
+>[!CAUTION]  
+>Be careful though, because you have to know how what each line does, <br>
+>if not, well you may have a keylogger now and you won't know it.<br>
+>I'm kidding, but this warning applies to ebvery script you'll find in the internet.
 
 Main objectives of this lab:
 <ul>
