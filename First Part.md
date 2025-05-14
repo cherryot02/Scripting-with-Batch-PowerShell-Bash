@@ -15,7 +15,7 @@ We are mainly using:
 >[!CAUTION]  
 >Be careful though, because you have to know how what each line does, <br>
 >if not, well you may have a keylogger now and you won't know it.<br>
->I'm kidding, but this warning applies to ebvery script you'll find in the internet.
+>I'm kidding, but this warning applies to every script you'll find in the internet.
 
 Main objectives of this lab:
 <ul>
@@ -30,7 +30,7 @@ This may or may not be vibe scripting but you will find out. <br>
 <br>
 
 Alright kidding aside, these tasks were given in class and we are meant execute them ourselves <br>
-So "using AI" was permitted but I did not really me that much.
+So "using AI" was permitted but it did not really help me that much because it would output too many complicated stuff that was unneccessary.
 
 
 # First Part: Windows Batch File - Local Network Ping Sweep
