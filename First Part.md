@@ -50,7 +50,7 @@ I was not able to screenshot the first one and I learned that the comments for t
 I did realize that I wasn’t supposed to run this in the terminal and needed to use a text editior.<br><br>
 
 Also pinged the linux machine which was reachable.<br>
-So I then tried the script from the presentation(powerpoint) and adjusted some bits accordingly.<br>
+So I then tried the script from the presentation(powerpoint from class lecture, which I cannot provide here) and adjusted some bits accordingly.<br>
 At this point, I realized that I must use the notepad so this could run and save it as “filename.bat”…<br>
 this was the result:<br><br>
 
