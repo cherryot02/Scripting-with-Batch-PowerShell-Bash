@@ -67,6 +67,6 @@ As soon as the Ping sweep was complete, the terminal closed. Replaced the word a
 ![image](https://github.com/user-attachments/assets/d34280a6-8abf-4d0c-a226-bf630cb9a504)
 
 
-
-
+>[!NOTE]
+>On going migration of documention, might take a while.
 
