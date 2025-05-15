@@ -37,6 +37,7 @@ So "using AI" was permitted but it did not really help me that much because it w
 
 Write a Windows Batch file that: <br>
    - Loops through a range of IP addresses on your local network (e.g., `192.168.1.1` to `192.168.1.254`).
+   - `10.1.122.199` so subnet is `10.1.122`.
    - Pings each IP address once.
    - Displays reachable IP addresses on the screen.
 > HINT: Use a `FOR` loop and the `ping` command to iterate through IP addresses.
