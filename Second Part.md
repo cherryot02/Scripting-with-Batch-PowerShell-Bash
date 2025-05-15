@@ -19,5 +19,6 @@ I searched and it’s because Get-NetTCPConnection works on Windows 8 and above�
 Also replaced the Select-Object according to instructions.  <br><br>
 ![image](https://github.com/user-attachments/assets/6186278d-86d4-4c80-8a49-08e14f623ec1)
 
-
+![image](https://github.com/user-attachments/assets/2b75b308-de1a-45c6-aa1e-a2b4f0867e42)
+Get-Process had no problems but now it’s not outputting any network connections:
 
