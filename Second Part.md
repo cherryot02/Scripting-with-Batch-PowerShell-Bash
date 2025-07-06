@@ -29,7 +29,7 @@ I got stuck here for a while and asked ChatGPT, but it was not working right, an
 ![image](https://github.com/user-attachments/assets/308d7aa4-6066-4e0c-878f-8979ea32aa0f)
 
 So cleared everything trial and errored a lot, and then ended up removing -an there and made everything simpler by just doing this. 
-![image](https://github.com/user-attachments/assets/744ade4f-347a-492b-a109-d3e20b19b92a)
+![image](https://github.com/user-attachments/assets/744ade4f-347a-492b-a109-d3e20b19b92a) <br>
 I searched for the proper syntax and got it here at 3:53 (https://www.youtube.com/watch?v=lgginAiOEXo) and compared it with the presentation.<br>
 
 ![image](https://github.com/user-attachments/assets/ce507031-a15a-45ad-9122-aa46736c8a50)
