@@ -15,7 +15,7 @@ Actually modified the second command for service version detection (added -sV). 
 ![image](https://github.com/user-attachments/assets/6172ff78-2a04-42c9-a26e-bc607b1e3b78)
 ![image](https://github.com/user-attachments/assets/130598df-6d2a-429d-95b7-74b2bc39ec3e)
 
->![NOTE]
+>[!NOTE]
 > Kept on encountering the problem with having to use dos2unix to convert the file so I could run the script. <br>
 > Which I don’t really understand why that was happening, unsure if that was by default or I really had to manually convert it on the command line.
 
