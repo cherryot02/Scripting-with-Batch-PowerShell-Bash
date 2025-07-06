@@ -44,5 +44,6 @@ verifying but it looks just like it, so I decreased the comments and it worked.
 ![image](https://github.com/user-attachments/assets/fbdd4004-485a-40c6-ab8b-7bdabfc9748c)
 
 
-
+# Next
+[Linux Bash Last part](https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash/blob/main/Fourth%20Part.md)
 
