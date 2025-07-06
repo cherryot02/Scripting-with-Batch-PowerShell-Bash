@@ -30,7 +30,7 @@ I got stuck here for a while and asked ChatGPT, but it was not working right, an
 
 So cleared everything trial and errored a lot, and then ended up removing -an there and made everything simpler by just doing this. 
 ![image](https://github.com/user-attachments/assets/744ade4f-347a-492b-a109-d3e20b19b92a)
-I searched for the proper syntax and got it here at 3:53 ![Youtube Link](https://www.youtube.com/watch?v=lgginAiOEXo) and compared it with the presentation.<br>
+I searched for the proper syntax and got it here at 3:53 (https://www.youtube.com/watch?v=lgginAiOEXo) and compared it with the presentation.<br>
 
 ![image](https://github.com/user-attachments/assets/ce507031-a15a-45ad-9122-aa46736c8a50)
 output was this so now I’ll visit some websites and run the script again. <br>
