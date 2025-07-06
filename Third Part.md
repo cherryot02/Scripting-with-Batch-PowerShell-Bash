@@ -32,8 +32,8 @@ I searched online and I needed to convert the file to unix base, which then work
 ![image](https://github.com/user-attachments/assets/6283711a-c4d5-46b6-a766-6ae36996599b)
 
 ## Task 2
-For Cron
-![image](https://github.com/user-attachments/assets/2e9c7b86-ac09-4ca0-816e-d739a4582c7a)
+For Cron <br>
+![image](https://github.com/user-attachments/assets/2e9c7b86-ac09-4ca0-816e-d739a4582c7a) <br>
 verifying but it looks just like it, so I decreased the comments and it worked.
 ![image](https://github.com/user-attachments/assets/b5b199e7-e5ac-4f24-a19a-0cb57f375a1b)
 
