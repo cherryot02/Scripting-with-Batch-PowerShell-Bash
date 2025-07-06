@@ -67,5 +67,8 @@ Only a few popped out alive and I did not wait for it to finish so I will remove
 As soon as the Ping sweep was complete, the terminal closed. Replaced the word alive to “reachable” for the instructions and changed timeout to -w 500 so it’s faster. <br><br>
 ![image](https://github.com/user-attachments/assets/d34280a6-8abf-4d0c-a226-bf630cb9a504)
 
+
+
+# Next
 Next is [Powershell](https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash/blob/main/Second%20Part.md) scripting.
 
