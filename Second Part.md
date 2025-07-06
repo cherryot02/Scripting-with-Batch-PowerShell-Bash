@@ -20,5 +20,29 @@ Also replaced the Select-Object according to instructions.  <br><br>
 ![image](https://github.com/user-attachments/assets/6186278d-86d4-4c80-8a49-08e14f623ec1)
 
 ![image](https://github.com/user-attachments/assets/2b75b308-de1a-45c6-aa1e-a2b4f0867e42)
+
 Get-Process had no problems but now it’s not outputting any network connections:
+![image](https://github.com/user-attachments/assets/766d9a6a-b47e-468c-8d9a-5532eb87093f)
+
+Turns out, I must run the actual netstat first and then display the output accordingly. <br>
+I got stuck here for a while and asked ChatGPT, but it was not working right, and it got complicated.
+![image](https://github.com/user-attachments/assets/308d7aa4-6066-4e0c-878f-8979ea32aa0f)
+
+So cleared everything trial and errored a lot, and then ended up removing -an there and made everything simpler by just doing this. 
+![image](https://github.com/user-attachments/assets/744ade4f-347a-492b-a109-d3e20b19b92a)
+I searched for the proper syntax and got it here at 3:53 ![Youtube Link](https://www.youtube.com/watch?v=lgginAiOEXo) and compared it with the presentation.<br>
+
+![image](https://github.com/user-attachments/assets/ce507031-a15a-45ad-9122-aa46736c8a50)
+output was this so now I’ll visit some websites and run the script again. <br>
+It took a while for the output to finish though, but the headers gone.
+![image](https://github.com/user-attachments/assets/08aec384-8634-4ecc-9dee-386b12a3a470)
+
+I wanted the header/labels but there’s probably a better way to do this.  <br>
+ChatGPT did this and it’s basically just organizing the output…
+![image](https://github.com/user-attachments/assets/cc4434ec-5dde-4315-b817-8312370fb2f2)
+
+
+
+
+
 
