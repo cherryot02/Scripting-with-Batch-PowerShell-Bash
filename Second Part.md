@@ -42,7 +42,7 @@ ChatGPT did this and it’s basically just organizing the output…
 ![image](https://github.com/user-attachments/assets/cc4434ec-5dde-4315-b817-8312370fb2f2)
 
 # Next
-![Third Part](https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash/blob/main/Third%20Part.md) Linux Bash Scripting, first part.
+[Third Part](https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash/blob/main/Third%20Part.md) Linux Bash Scripting, first part.
 
 
 
